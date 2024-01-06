@@ -1,6 +1,6 @@
 ## Play Store Cleanup
 
-Cleaning and analysis of the Google Play Store dataset, using Python (Pandas and NumPy). This included dealing with null values, duplicates, and incorrect data types (which involved string manipulation).
+Cleaning and analysing Google Play Store data, using Python (Pandas and NumPy). This involved addressing null values, handling duplicates, and correcting data types, which sometimes required string manipulation.
 
 ## Project Screen Shots
 Before:
